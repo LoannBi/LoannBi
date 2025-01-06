@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Loann!
 
-**`Loann Bideau (Developer/Enjoyer)`**
+**`Loann Bideau (Developer)`**
 
 I’m Loann, currently studying at [Epitech](https://www.epitech.eu/en/who-are-we/) 🎓.   <p align="left">
    </p>
