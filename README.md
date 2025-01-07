@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Loann!
+# 👋 Hey, I'm Loann!
 
 **`Loann Bideau (Developer)`**
 
